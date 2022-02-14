@@ -3,6 +3,7 @@
 
 ZCZC WEEK00 200 L02 ZOOM meetings related
 ZCZC WEEK00 60 L03 GitHub related
+ZCZC WEEK00 60 L06 References/Books/Documents/GSGS related
 ZCZC WEEK00 30 L11 Assignment #01
 ZCZC WEEK00 30 L12 Assignment #02
 ZCZC WEEK00 30 L13 Assignment #03
