@@ -11,7 +11,7 @@
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
-Like a puppet whoose string has been cut
+Like a puppet whose string has been cut
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
