@@ -11,8 +11,8 @@ permalink: /LINKS/
 <hr>
 
 # Links
-1. [Basics of vi editor](https://www.youtube.com/watch?v=pU2k776i2Zw&t=36s) 
-Link ini mengajarkan cara menggunakan vi editor
+1. [Basics of linux](https://www.youtube.com/watch?v=xRX6ZI_P-LA&list=PLckPQEKYlbxebubMWdjcGR7K_ukm35ZjN) 
+playlist ini mengajarkan dasar-dasar penggunaan linux
 
 2. [Linux command lines](https://www.youtube.com/watch?v=2PGnYjbYuUo)
 Video ini memberikan penjelasan mendalam tentang command lines untuk linux
