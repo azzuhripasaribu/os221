@@ -11,4 +11,5 @@ permalink: /LINKS/
 <hr>
 
 # Links
+[Basics of vi editor] (https://www.youtube.com/watch?v=pU2k776i2Zw&t=36s) Link ini mengajarkan cara menggunakan vi editor
 
