@@ -20,4 +20,7 @@ playlist ini mengajarkan dasar-dasar penggunaan linux
 Video ini memberikan penjelasan C language
 
 ## Week 03
-
+1. [File System Overview](https://kb.wisc.edu/helpdesk/page.php?id=11300)
+Overview dari beberapa files system.
+2. [What is a File System?](https://www.javatpoint.com/file-system)
+Penjelasan mengenai File System oleh Javatpoint.
