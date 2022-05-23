@@ -61,3 +61,8 @@ ZCZC W09  60 L11 Assignment #01
 ZCZC W09  20 L12 Assignment #02
 ZCZC W09  180 L13 Assignment #03
 ZCZC W09  25 L22 QUIZ
+ZCZC W10 180 L02 ZOOM meetings related
+ZCZC W10  60 L11 Assignment #01
+ZCZC W10  20 L12 Assignment #02
+ZCZC W10  240 L13 Assignment #03
+ZCZC W10  25 L22 QUIZ
